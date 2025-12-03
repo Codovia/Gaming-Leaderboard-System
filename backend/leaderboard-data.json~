@@ -1,1 +1,42 @@
+{
+  "players": [
+    {
+      "playerId": "P101",
+      "playerName": "Arjun",
+      "gameName": "Free Fire",
+      "score": 650
+    },
+    {
+      "playerId": "P102",
+      "playerName": "Ravi",
+      "gameName": "PUBG",
+      "score": 820
+    },
+    {
+      "playerId": "P103",
+      "playerName": "Neha",
+      "gameName": "Valorant",
+      "score": 910
+    },
+    {
+      "playerId": "P104",
+      "playerName": "Kiran",
+      "gameName": "Free Fire",
+      "score": 740
+    },
+    {
+      "playerId": "P105",
+      "playerName": "Sneha",
+      "gameName": "PUBG",
+      "score": 890
+    },
+    {
+      "playerId": "P106",
+      "playerName": "Amit",
+      "gameName": "Life is Strange",
+      "score": 899
+    }
+    
+  ]
+}
 
